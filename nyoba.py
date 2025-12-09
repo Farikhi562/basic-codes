@@ -2,7 +2,7 @@ import time
 import os
 
 def tamagotchi():
-    print("🥚 Telur menetas...")
+    print(" Telur menetas...")
     time.sleep(2)
     nama = input("Kasih nama monstermu: ")
     
